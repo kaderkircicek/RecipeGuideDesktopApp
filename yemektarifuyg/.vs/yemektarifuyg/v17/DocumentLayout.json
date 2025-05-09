@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EZGI\\OneDrive\\Masa\u00FCst\u00FC\\yazlab1proje1bitmi\u015Fhali\\yazlab1proje1son\\yemektarifuyg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44760A98-84A8-4297-BC03-B1FB6BD07E6B}|yemektarifuyg\\yemektarifuyg.csproj|c:\\users\\ezgi\\onedrive\\masa\u00FCst\u00FC\\yazlab1proje1bitmi\u015Fhali\\yazlab1proje1son\\yemektarifuyg\\yemektarifuyg\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44760A98-84A8-4297-BC03-B1FB6BD07E6B}|yemektarifuyg\\yemektarifuyg.csproj|solutionrelative:yemektarifuyg\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44760A98-84A8-4297-BC03-B1FB6BD07E6B}|yemektarifuyg\\yemektarifuyg.csproj|c:\\users\\ezgi\\onedrive\\masa\u00FCst\u00FC\\yazlab1proje1bitmi\u015Fhali\\yazlab1proje1son\\yemektarifuyg\\yemektarifuyg\\tarifguncellemeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44760A98-84A8-4297-BC03-B1FB6BD07E6B}|yemektarifuyg\\yemektarifuyg.csproj|solutionrelative:yemektarifuyg\\tarifguncellemeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44760A98-84A8-4297-BC03-B1FB6BD07E6B}|yemektarifuyg\\yemektarifuyg.csproj|c:\\users\\ezgi\\onedrive\\masa\u00FCst\u00FC\\yazlab1proje1bitmi\u015Fhali\\yazlab1proje1son\\yemektarifuyg\\yemektarifuyg\\veritabanibaglantisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44760A98-84A8-4297-BC03-B1FB6BD07E6B}|yemektarifuyg\\yemektarifuyg.csproj|solutionrelative:yemektarifuyg\\veritabanibaglantisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44760A98-84A8-4297-BC03-B1FB6BD07E6B}|yemektarifuyg\\yemektarifuyg.csproj|c:\\users\\ezgi\\onedrive\\masa\u00FCst\u00FC\\yazlab1proje1bitmi\u015Fhali\\yazlab1proje1son\\yemektarifuyg\\yemektarifuyg\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44760A98-84A8-4297-BC03-B1FB6BD07E6B}|yemektarifuyg\\yemektarifuyg.csproj|solutionrelative:yemektarifuyg\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44760A98-84A8-4297-BC03-B1FB6BD07E6B}|yemektarifuyg\\yemektarifuyg.csproj|C:\\Users\\EZGI\\OneDrive\\Masa\u00FCst\u00FC\\yazlab1proje1bitmi\u015Fhali\\yazlab1proje1son\\yemektarifuyg\\yemektarifuyg\\tarifdetayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44760A98-84A8-4297-BC03-B1FB6BD07E6B}|yemektarifuyg\\yemektarifuyg.csproj|solutionrelative:yemektarifuyg\\tarifdetayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44760A98-84A8-4297-BC03-B1FB6BD07E6B}|yemektarifuyg\\yemektarifuyg.csproj|c:\\users\\ezgi\\onedrive\\masa\u00FCst\u00FC\\yazlab1proje1bitmi\u015Fhali\\yazlab1proje1son\\yemektarifuyg\\yemektarifuyg\\anasayfamalzemeekleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44760A98-84A8-4297-BC03-B1FB6BD07E6B}|yemektarifuyg\\yemektarifuyg.csproj|solutionrelative:yemektarifuyg\\anasayfamalzemeekleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44760A98-84A8-4297-BC03-B1FB6BD07E6B}|yemektarifuyg\\yemektarifuyg.csproj|C:\\Users\\EZGI\\OneDrive\\Masa\u00FCst\u00FC\\yazlab1proje1bitmi\u015Fhali\\yazlab1proje1son\\yemektarifuyg\\yemektarifuyg\\anasayfamalzemeekleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44760A98-84A8-4297-BC03-B1FB6BD07E6B}|yemektarifuyg\\yemektarifuyg.csproj|solutionrelative:yemektarifuyg\\anasayfamalzemeekleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44760A98-84A8-4297-BC03-B1FB6BD07E6B}|yemektarifuyg\\yemektarifuyg.csproj|C:\\Users\\EZGI\\OneDrive\\Masa\u00FCst\u00FC\\yazlab1proje1bitmi\u015Fhali\\yazlab1proje1son\\yemektarifuyg\\yemektarifuyg\\tarifguncellemeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44760A98-84A8-4297-BC03-B1FB6BD07E6B}|yemektarifuyg\\yemektarifuyg.csproj|solutionrelative:yemektarifuyg\\tarifguncellemeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 287,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnaSayfa.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EZGI\\OneDrive\\Masa\u00FCst\u00FC\\yazlab1proje1bitmi\u015Fhali\\yazlab1proje1son\\yemektarifuyg\\yemektarifuyg\\AnaSayfa.cs",
+              "RelativeDocumentMoniker": "yemektarifuyg\\AnaSayfa.cs",
+              "ToolTip": "C:\\Users\\EZGI\\OneDrive\\Masa\u00FCst\u00FC\\yazlab1proje1bitmi\u015Fhali\\yazlab1proje1son\\yemektarifuyg\\yemektarifuyg\\AnaSayfa.cs [Design]",
+              "RelativeToolTip": "yemektarifuyg\\AnaSayfa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:32:40.384Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnaSayfa.cs",
+              "DocumentMoniker": "C:\\Users\\EZGI\\OneDrive\\Masa\u00FCst\u00FC\\yazlab1proje1bitmi\u015Fhali\\yazlab1proje1son\\yemektarifuyg\\yemektarifuyg\\AnaSayfa.cs",
+              "RelativeDocumentMoniker": "yemektarifuyg\\AnaSayfa.cs",
+              "ToolTip": "C:\\Users\\EZGI\\OneDrive\\Masa\u00FCst\u00FC\\yazlab1proje1bitmi\u015Fhali\\yazlab1proje1son\\yemektarifuyg\\yemektarifuyg\\AnaSayfa.cs",
+              "RelativeToolTip": "yemektarifuyg\\AnaSayfa.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T06:14:38.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VeriTabaniBaglantisi.cs",
+              "DocumentMoniker": "C:\\Users\\EZGI\\OneDrive\\Masa\u00FCst\u00FC\\yazlab1proje1bitmi\u015Fhali\\yazlab1proje1son\\yemektarifuyg\\yemektarifuyg\\VeriTabaniBaglantisi.cs",
+              "RelativeDocumentMoniker": "yemektarifuyg\\VeriTabaniBaglantisi.cs",
+              "ToolTip": "C:\\Users\\EZGI\\OneDrive\\Masa\u00FCst\u00FC\\yazlab1proje1bitmi\u015Fhali\\yazlab1proje1son\\yemektarifuyg\\yemektarifuyg\\VeriTabaniBaglantisi.cs",
+              "RelativeToolTip": "yemektarifuyg\\VeriTabaniBaglantisi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T05:58:37.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TarifGuncellemeForm.cs",
+              "DocumentMoniker": "C:\\Users\\EZGI\\OneDrive\\Masa\u00FCst\u00FC\\yazlab1proje1bitmi\u015Fhali\\yazlab1proje1son\\yemektarifuyg\\yemektarifuyg\\TarifGuncellemeForm.cs",
+              "RelativeDocumentMoniker": "yemektarifuyg\\TarifGuncellemeForm.cs",
+              "ToolTip": "C:\\Users\\EZGI\\OneDrive\\Masa\u00FCst\u00FC\\yazlab1proje1bitmi\u015Fhali\\yazlab1proje1son\\yemektarifuyg\\yemektarifuyg\\TarifGuncellemeForm.cs",
+              "RelativeToolTip": "yemektarifuyg\\TarifGuncellemeForm.cs",
+              "ViewState": "AgIAABUBAAAAAAAAAAAwwDEBAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:00:09.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AnaSayfaMalzemeEkleme.cs",
+              "DocumentMoniker": "C:\\Users\\EZGI\\OneDrive\\Masa\u00FCst\u00FC\\yazlab1proje1bitmi\u015Fhali\\yazlab1proje1son\\yemektarifuyg\\yemektarifuyg\\AnaSayfaMalzemeEkleme.cs",
+              "RelativeDocumentMoniker": "yemektarifuyg\\AnaSayfaMalzemeEkleme.cs",
+              "ToolTip": "C:\\Users\\EZGI\\OneDrive\\Masa\u00FCst\u00FC\\yazlab1proje1bitmi\u015Fhali\\yazlab1proje1son\\yemektarifuyg\\yemektarifuyg\\AnaSayfaMalzemeEkleme.cs",
+              "RelativeToolTip": "yemektarifuyg\\AnaSayfaMalzemeEkleme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T06:15:32.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TarifDetayForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EZGI\\OneDrive\\Masa\u00FCst\u00FC\\yazlab1proje1bitmi\u015Fhali\\yazlab1proje1son\\yemektarifuyg\\yemektarifuyg\\TarifDetayForm.cs",
+              "RelativeDocumentMoniker": "yemektarifuyg\\TarifDetayForm.cs",
+              "ToolTip": "C:\\Users\\EZGI\\OneDrive\\Masa\u00FCst\u00FC\\yazlab1proje1bitmi\u015Fhali\\yazlab1proje1son\\yemektarifuyg\\yemektarifuyg\\TarifDetayForm.cs [Design]",
+              "RelativeToolTip": "yemektarifuyg\\TarifDetayForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:30:34.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AnaSayfaMalzemeEkleme.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EZGI\\OneDrive\\Masa\u00FCst\u00FC\\yazlab1proje1bitmi\u015Fhali\\yazlab1proje1son\\yemektarifuyg\\yemektarifuyg\\AnaSayfaMalzemeEkleme.cs",
+              "RelativeDocumentMoniker": "yemektarifuyg\\AnaSayfaMalzemeEkleme.cs",
+              "ToolTip": "C:\\Users\\EZGI\\OneDrive\\Masa\u00FCst\u00FC\\yazlab1proje1bitmi\u015Fhali\\yazlab1proje1son\\yemektarifuyg\\yemektarifuyg\\AnaSayfaMalzemeEkleme.cs [Design]",
+              "RelativeToolTip": "yemektarifuyg\\AnaSayfaMalzemeEkleme.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T06:15:27.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TarifGuncellemeForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EZGI\\OneDrive\\Masa\u00FCst\u00FC\\yazlab1proje1bitmi\u015Fhali\\yazlab1proje1son\\yemektarifuyg\\yemektarifuyg\\TarifGuncellemeForm.cs",
+              "RelativeDocumentMoniker": "yemektarifuyg\\TarifGuncellemeForm.cs",
+              "ToolTip": "C:\\Users\\EZGI\\OneDrive\\Masa\u00FCst\u00FC\\yazlab1proje1bitmi\u015Fhali\\yazlab1proje1son\\yemektarifuyg\\yemektarifuyg\\TarifGuncellemeForm.cs [Design]",
+              "RelativeToolTip": "yemektarifuyg\\TarifGuncellemeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:00:02.476Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
